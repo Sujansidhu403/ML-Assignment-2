@@ -34,9 +34,6 @@ This repository contains solutions for **Part B** of Homework 2, using the Iris 
   - All classes have AUC ≈ 0.99–1.00
   - Very strong performance on this dataset.
 # code
-# Homework 2 - Part B
-# CS5710 - Machine Learning
-# Student: SUJAN AKENA (700770399)
 
 # importing libraries
 import numpy as np
